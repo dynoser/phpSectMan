@@ -1,0 +1,20 @@
+{
+    "name": "dynoser/sectman",
+    "description": "Code sections manager",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "AlexanderJer",
+            "email": "alexierusalim@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "dynoser/helml": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "dynoser\\sectman\\": "src/"
+        }
+    }
+}
