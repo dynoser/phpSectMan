@@ -1,6 +1,7 @@
 <?php
 namespace dynoser\sectman;
-use dynoser\HELML\HELMLdecoder as HELML;
+use dynoser\HELML\HELML;
+
 use dynoser\HELML\fileHELMLsect;
 
 class SectMan {
